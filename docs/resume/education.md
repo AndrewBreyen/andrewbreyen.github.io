@@ -1,3 +1,9 @@
+---
+hide:
+  - footer
+---
+
+
 # Education
 
 ## College of St. Benedict & St. John’s University

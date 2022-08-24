@@ -1,3 +1,9 @@
+---
+hide:
+  - footer
+---
+
+
 # Extra Curricular and Service Activities
 
 ## Saint Katharine Drexel Catholic Church

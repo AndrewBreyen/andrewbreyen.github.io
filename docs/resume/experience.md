@@ -1,3 +1,9 @@
+---
+hide:
+  - footer
+---
+
+
 # Experience
 
 ## Associate Digital Engineer
