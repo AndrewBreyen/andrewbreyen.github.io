@@ -6,7 +6,7 @@ hide:
 
 # Experience
 
-## Associate Digital Engineer
+## Digital Engineer
 ### Best Buy — Richfield, MN
 August 2017 - Present
 
@@ -16,7 +16,7 @@ August 2017 - Present
 * Created deployment automation and run books for production support
 
 ## Guest Service Leader
-### Kwik Trip — Anoka, MN
+### Kwik Trip — Anoka, MN/Burnsville, MN
 July  2021 - Present
 
 * Assisted guests and coworkers with needs in both the retail and foodservice environment
