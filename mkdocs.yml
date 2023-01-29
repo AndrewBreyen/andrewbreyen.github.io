@@ -10,6 +10,7 @@ nav:
       - 'MacServer Documentation': 'projects/macserver-documentation.md'
     - Documentation:
       - 'Import Photos from iPhone': 'documentation/photos-import.md'
+      - 'Google Photos': 'documentation/google-photos.md'
 theme:
   name: material
   features:
@@ -42,3 +43,5 @@ markdown_extensions:
   - pymdownx.details
   - pymdownx.superfences
   - pymdownx.keys
+plugins:
+  - glightbox
