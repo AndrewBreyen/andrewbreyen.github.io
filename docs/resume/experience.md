@@ -8,7 +8,7 @@ hide:
 
 ## Digital Engineer
 ### Best Buy — Richfield, MN
-August 2017 - Present
+June 2021 - Present
 
 * Application development and maintenance in order to deliver business value
 * Used current programming language and technologies to write basic code, fix defects
