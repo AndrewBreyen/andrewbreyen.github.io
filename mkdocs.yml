@@ -8,6 +8,7 @@ nav:
       - 'Extra Curricular and Service Activities': 'resume/extra-service.md'
     - Projects:
       - 'MacServer Documentation': 'projects/macserver-documentation.md'
+      - 'Night Photography': 'projects/night-photography.md'
     - Documentation:
       - 'Import Photos from iPhone': 'documentation/photos-import.md'
       - 'Google Photos': 'documentation/google-photos.md'
